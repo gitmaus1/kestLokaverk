@@ -6,6 +6,16 @@
 
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/Screenshot%202024-02-20%20093251.png)
 
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/2/Screenshot%202024-02-22%20195820.png)
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/2/Screenshot%202024-02-22%20200057.png)
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/2/Screenshot%202024-02-22%20205931.png)
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/2/Screenshot%202024-02-22%20211116.png)
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/2/Screenshot%202024-02-22%20211529.png)
+
 <h2> client2    </h2>
 
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/Screenshot%202024-02-20%20093923.png)
