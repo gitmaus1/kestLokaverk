@@ -7,3 +7,6 @@
 
 
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/Screenshot%202024-02-20%20093923.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/Screenshot%202024-02-20%20094311.png)
