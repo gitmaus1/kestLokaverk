@@ -13,3 +13,17 @@
 <h2> server1    </h2>
 
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/Screenshot%202024-02-20%20094311.png)
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/Screenshot%202024-02-20%20095601.png)
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/Screenshot%202024-02-20%20100343.png)
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/Screenshot%202024-02-20%20100642.png)
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/Screenshot%202024-02-20%20101556.png)
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/Screenshot%202024-02-22%20134829.png)
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/Screenshot%202024-02-22%20135632.png)
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/Screenshot%202024-02-22%20135725.png)
