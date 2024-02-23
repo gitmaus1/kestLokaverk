@@ -64,3 +64,21 @@
 
 
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/Screenshot%202024-02-22%20135725.png)
+
+
+
+<h1> 2. configure server1 with static IP Address </h1>
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/4/Screenshot%202024-02-23%20204220.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/4/Screenshot%202024-02-23%20204643.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/4/Screenshot%202024-02-23%20211736.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/4/Screenshot%202024-02-23%20212130.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/4/Screenshot%202024-02-23%20212230.png)
