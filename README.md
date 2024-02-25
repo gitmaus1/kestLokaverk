@@ -105,4 +105,12 @@
 
 <h2> client1    </h2>
 
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/7/Screenshot%202024-02-25%20221540.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/7/Screenshot%202024-02-25%20221610.png)
+
+
+
 <h2> client2    </h2>
