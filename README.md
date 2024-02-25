@@ -87,6 +87,7 @@
 
 <h1> 3. Install and configure DHCP </h1>
 
+<h2> server1    </h2>
 
 
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/6/Screenshot%202024-02-25%20210740.png)
@@ -102,4 +103,6 @@
 
 
 
+<h2> client1    </h2>
 
+<h2> client2    </h2>
