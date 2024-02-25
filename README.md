@@ -88,3 +88,18 @@
 <h1> 3. Install and configure DHCP </h1>
 
 
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/6/Screenshot%202024-02-25%20210740.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/6/Screenshot%202024-02-25%20211643.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/6/Screenshot%202024-02-25%20211949.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/6/Screenshot%202024-02-25%20212114.png)
+
+
+
+
