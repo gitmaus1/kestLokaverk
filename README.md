@@ -83,3 +83,8 @@
 
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/4/Screenshot%202024-02-23%20212130.png)
 
+
+
+<h1> 3. Install and configure DHCP </h1>
+
+
