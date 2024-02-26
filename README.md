@@ -117,3 +117,6 @@
 
 
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/8/Screenshot%202024-02-25%20224653.png)
+
+
+<h1> 4. Install and configure DNS server on server1 </h1>
