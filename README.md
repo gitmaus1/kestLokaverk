@@ -120,3 +120,36 @@
 
 
 <h1> 4. Install and configure DNS server on server1 </h1>
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/10/Screenshot%202024-02-27%20194215.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/10/Screenshot%202024-02-27%20194557.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/10/Screenshot%202024-02-27%20195930.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/10/Screenshot%202024-02-27%20200329.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/10/Screenshot%202024-02-27%20200712.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/10/Screenshot%202024-02-27%20201946.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/10/Screenshot%202024-02-27%20202011.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/10/Screenshot%202024-02-27%20202512.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/10/Screenshot%202024-02-27%20202533.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/10/Screenshot%202024-02-27%20202559.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/10/Screenshot%202024-02-27%20202840.png)
