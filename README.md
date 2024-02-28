@@ -158,11 +158,11 @@
 
 <h1> 5. Create the users accounts using a script </h1>
 
-
+here is the Users file
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/11/Screenshot%202024-02-28%20132344.png)
 
-
+here is the script 
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/11/Screenshot%202024-02-28%20132430.png)
 
-
+here are the Users
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/11/Screenshot%202024-02-28%20132557.png)
