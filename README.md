@@ -169,3 +169,27 @@ here are the Users
 
 
 <h1> 6. Install and configure MySQL on server1 and create Human Resource database. </h1>
+
+install and configure mysql
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/12/1install_mysql_server.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/12/2mysql_secure_installation.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/12/3mysql_working.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/12/4Mysql_WorkBench_install.png)
+
+mysql code
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/12/5mysql1.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/12/6mysql2.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/12/7mysql3.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/12/8mysql4.png)
