@@ -193,3 +193,12 @@ mysql code
 
 
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/12/8mysql4.png)
+
+
+<h1> 7. backup home directories ubuntu weekly at midnight each Friday </h1>
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/13/1Screenshot%202024-02-28%20230906.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/13/2Screenshot%202024-02-28%20231030.png)
