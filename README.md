@@ -202,3 +202,13 @@ mysql code
 
 
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/13/2Screenshot%202024-02-28%20231030.png)
+
+
+
+<h1> 8. Install and configure NTP on the server and clients </h1>
+
+<h2> server1    </h2>
+
+<h2> client1    </h2>
+
+<h2> client2    </h2>
