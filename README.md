@@ -153,3 +153,16 @@
 
 
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/10/Screenshot%202024-02-27%20202840.png)
+
+
+
+<h1> 5. Create the users accounts using a script </h1>
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/11/Screenshot%202024-02-28%20132344.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/11/Screenshot%202024-02-28%20132430.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/11/Screenshot%202024-02-28%20132557.png)
