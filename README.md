@@ -166,3 +166,6 @@ here is the script
 
 here are the Users
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/11/Screenshot%202024-02-28%20132557.png)
+
+
+<h1> 6. Install and configure MySQL on server1 and create Human Resource database. </h1>
