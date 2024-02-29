@@ -274,6 +274,11 @@ mysql code
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/16/2Screenshot%202024-02-29%20042308.png)
 
 
+
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/16/3Screenshot%202024-02-29%20050538.png)
 
 
+
+<h1> 11. Install and configure shared printers for each group </h1>
+<h1> 12. For security reasons, install and configure SSH on the server and clients </h1>
+<h1> 13. All unused ports should be closed, use NMAP for testing. </h1>
