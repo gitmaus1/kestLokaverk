@@ -280,5 +280,35 @@ mysql code
 
 
 <h1> 11. Install and configure shared printers for each group </h1>
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/17/1Screenshot%202024-02-29%20130652.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/17/2Screenshot%202024-02-29%20130851.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/17/3Screenshot%202024-02-29%20130922.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/17/4Screenshot%202024-02-29%20131113.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/17/5Screenshot%202024-02-29%20140302.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/17/6Screenshot%202024-02-29%20140911.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/17/7Screenshot%202024-02-29%20142514.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/17/8Screenshot%202024-02-29%20180018.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/17/9Screenshot%202024-02-29%20180303.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/17/10Screenshot%202024-02-29%20180355.png)
+
 <h1> 12. For security reasons, install and configure SSH on the server and clients </h1>
 <h1> 13. All unused ports should be closed, use NMAP for testing. </h1>
