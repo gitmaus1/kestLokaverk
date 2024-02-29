@@ -252,3 +252,13 @@ mysql code
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/14/12_client2_Screenshot%202024-02-29%20024933.png)
 
 
+<h1> 9. Install and configure syslog server on server1 </h1>
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/15/1Screenshot%202024-02-29%20031942.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/15/2Screenshot%202024-02-29%20032420.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/15/3Screenshot%202024-02-29%20034213.png)
