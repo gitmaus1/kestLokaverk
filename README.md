@@ -209,6 +209,46 @@ mysql code
 
 <h2> server1    </h2>
 
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/14/1Screenshot%202024-02-28%20233905.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/14/2Screenshot%202024-02-28%20234536.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/14/3Screenshot%202024-02-28%20234817.png)
+
+
 <h2> client1    </h2>
 
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/14/4_client1_Screenshot%202024-02-28%20235535.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/14/5_client1_Screenshot%202024-02-29%20001808.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/14/6_client1_Screenshot%202024-02-29%20001858.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/14/7_client1_Screenshot%202024-02-29%20002545.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/14/8_client1_Screenshot%202024-02-29%20011920.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/14/9_client1_Screenshot%202024-02-29%20012017.png)
+
+
 <h2> client2    </h2>
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/14/10_client2_Screenshot%202024-02-29%20023332.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/14/11_client2_Screenshot%202024-02-29%20024745.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/14/12_client2_Screenshot%202024-02-29%20024933.png)
+
+
