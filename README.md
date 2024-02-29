@@ -262,3 +262,18 @@ mysql code
 
 
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/15/3Screenshot%202024-02-29%20034213.png)
+
+
+
+<h1> 10. Install and configure Postfix on server1 </h1>
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/16/1Screenshot%202024-02-29%20041652.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/16/2Screenshot%202024-02-29%20042308.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/16/3Screenshot%202024-02-29%20050538.png)
+
+
