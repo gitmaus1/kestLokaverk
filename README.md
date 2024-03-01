@@ -311,4 +311,97 @@ mysql code
 ![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/17/10Screenshot%202024-02-29%20180355.png)
 
 <h1> 12. For security reasons, install and configure SSH on the server and clients </h1>
+
+<h2> server1    </h2>
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/18/1Screenshot%202024-02-29%20184723.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/18/2Screenshot%202024-02-29%20190705.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/18/3Screenshot%202024-02-29%20191211.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/18/4Screenshot%202024-02-29%20213513.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/18/5Screenshot%202024-02-29%20220516.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/18/6Screenshot%202024-02-29%20220646.png)
+
+<h2> client1    </h2>
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/18/7_client1_Screenshot%202024-02-29%20223105.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/18/8_client1_Screenshot%202024-02-29%20223527.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/18/9_client1_Screenshot%202024-02-29%20225132.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/18/10_client1_Screenshot%202024-02-29%20225400.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/18/11_client1_Screenshot%202024-02-29%20225654.png)
+
+
+
+
+<h2> client2    </h2>
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/18/12_client2_Screenshot%202024-02-29%20230559.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/18/13_client2_Screenshot%202024-02-29%20230811.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/18/14_client2_Screenshot%202024-03-01%20002358.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/18/15_client2_Screenshot%202024-03-01%20002713.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/18/16_client2_Screenshot%202024-03-01%20003024.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/18/17_client2_Screenshot%202024-03-01%20003142.png)
+
+
+
+
+
+
+
+
+
 <h1> 13. All unused ports should be closed, use NMAP for testing. </h1>
+
+
+
+<h2> server1    </h2>
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/19/1Screenshot%202024-03-01%20032125.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/19/2Screenshot%202024-03-01%20032222.png)
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/19/3Screenshot%202024-03-01%20033419.png)
+
+
+<h2> client1    </h2>
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/19/4_client1_Screenshot%202024-03-01%20034203.png)
+
+
+<h2> client2    </h2>
+
+
+![mynd](https://github.com/gitmaus1/kestLokaverk/blob/main/Screenshots/19/5_client2_Screenshot%202024-03-01%20034329.png)
+
